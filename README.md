@@ -1,27 +1,26 @@
 - 👋 Hi, I’m @palaksharma1011,
   
-  a **passionate Frontend Developer and Problem-Solving Enthusiast**.
-  I am dedicated to crafting beautiful, responsive, and efficient web designs while continuously honing my skills in Data Structures and Algorithms (DSA)
-  to solve real-world challenges.
+  a **passionate Full stack Developer and Problem-Solving Enthusiast**.
+Dedicated second-year Computer Science student with expertise in MERN stack development and Data Structures & Algorithms. Active open-source contributor with experience in building scalable web applications and AR solutions. Passionate about solving complex problems and creating innovative solutions through technology.
 
 ## MY MISSION
 -  I’m on a mission to grow every day as a developer and problem solver. With a hardworking mindset, I embrace challenges as opportunities to innovate and excel. Whether it's crafting a pixel-perfect UI or tackling a tricky algorithm, I give it my all!
-## -  Skills & Expertise
-### 💻 Frontend Development
-HTML5, CSS3, JavaScript
 
-Responsive web design using Grid, Flexbox, and Bootstrap
-Building engaging user interfaces and seamless web experiences
-Strong focus on writing clean, maintainable code
+## TECHNICAL SKILLS
+- **Frontend**: React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Material-UI, Tailwind CSS
+- **Backend**: Node.js, Express.js, RESTful APIs, GraphQL
+- **Database**: MongoDB, MySQL
+- **Programming Languages**: Java, JavaScript, Python
+- **Data Structures & Algorithms**: Advanced proficiency in Java
+- **Version Control**: Git, GitHub
+- **Tools & Technologies**: Postman, VS Code, Eclipse, Firebase, AWS (Basic), Docker
+- **Testing**: Jest, Mocha
+- **Additional Skills**: Augmented Reality, Machine Learning (Basic), WebGL
 
-### 🧠 DSA Expertise
+## 🧠 DSA Expertise
 Proficient in Data Structures and Algorithms with Java
 Solving complex problems with logical and structured approaches
 Expertise in competitive programming with a focus on performance optimization
-
-### 🛠️ Tools & Technologies
-Git & GitHub for version control and collaboration
-Terminal for efficient development workflows
 
 ## 🤝 Open to Collaboration
 I’m actively seeking opportunities to collaborate with like-minded developers and problem-solvers! Whether it’s:
@@ -32,7 +31,7 @@ I’m actively seeking opportunities to collaborate with like-minded developers 
 
 ## 🌟 Why You’ll Love Working With Me:
 
-**Master of Frontend Development** : I have a sharp eye for detail and the ability to create stunning, responsive, and interactive designs using HTML, CSS, JavaScript, and Bootstrap.
+**Master of Full stack Development** : I have a sharp eye for detail and the ability to create stunning websites.
 
 **DSA Prodigy**: With my exceptional problem-solving skills and expertise in Java-based algorithms, I can tackle even the toughest challenges with confidence and precision.
 
